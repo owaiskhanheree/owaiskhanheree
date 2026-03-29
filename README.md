@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Owais Khan</h1>
-<h3 align="center">Data Analytics Graduate Student @ Clark University | Python, SQL, R, Tableau, Power BI | Ex-Data Engineer & Risk Analyst</h3>
+<h3 align="center">Data Analytics Graduate Student @ Clark University | Python, SQL, R, Tableau, Power BI | Data Engineer & Risk Analyst</h3>
 
 - 🔭 I'm currently working on **Data Analytics & Visualization Projects at Clark University**
 
