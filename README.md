@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/owaiskhann/)
 
-- ⚡ Fun fact **From Karachi to Worcester — bridging finance and data science, one dataset at a time.**
+- ⚡ Fun fact **From Karachi to Boston — bridging finance and data science, one dataset at a time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
